@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-pandas
-sqlite3
-git config --global user.email "prajwalparve378@gmail.com"
